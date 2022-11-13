@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1667262597 source:c:\code\berenice\menu.c
+	"headers.h"
+
+1667262591 c:\code\berenice\headers.h
+
+1667264058 source:c:\projetos\berenice\menu.c
+	"headers.h"
+
+1667349178 c:\projetos\berenice\headers.h
+
+1667349393 source:c:\projetos\berenice\produtos.c
+	"headers.h"
+
+1667349422 source:c:\projetos\berenice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667425515 source:c:\codeblocks\berenicev3\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667425515 c:\codeblocks\berenicev3\headers.h
+
+1667425494 source:c:\codeblocks\berenicev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667425515 source:c:\codeblocks\berenicev3\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667522227 source:c:\programas c\berenicev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667521142 c:\programas c\berenicev3\headers.h
+
+1667519809 source:c:\programas c\berenicev3\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<locale.h>
+
+1667522227 source:c:\programas c\berenicev3\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<locale.h>
+
+1667955116 source:c:\programas c\berenicev3-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"headers.h"
+
+1667955220 c:\programas c\berenicev3-main\headers.h
+
+1667951425 source:c:\programas c\berenicev3-main\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<locale.h>
+
+1667955126 source:c:\programas c\berenicev3-main\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"headers.h"
+
+1668291516 source:c:\codeblocks\berenicev3-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"headers.h"
+
+1668288432 c:\codeblocks\berenicev3-main\headers.h
+
+1668291302 source:c:\codeblocks\berenicev3-main\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"headers.h"
+
+1668294183 source:c:\codeblocks\berenicev3-main\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"headers.h"
+
+1667955458 source:c:\progamas c\berenicev3-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"headers.h"
+
+1668033728 c:\progamas c\berenicev3-main\headers.h
+
+1668039087 source:c:\progamas c\berenicev3-main\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<locale.h>
+
+1667955458 source:c:\progamas c\berenicev3-main\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"headers.h"
+
+1668041031 source:c:\projetos\berenicev3-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"headers.h"
+
+1668214071 c:\projetos\berenicev3-main\headers.h
+
+1668211308 source:c:\projetos\berenicev3-main\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<locale.h>
+
+1668041031 source:c:\projetos\berenicev3-main\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"headers.h"
+
+1668294296 source:c:\users\sandro\desktop\arthur\faculdade\berenicev3-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"headers.h"
+
+1668358606 c:\users\sandro\desktop\arthur\faculdade\berenicev3-main\headers.h
+
+1668356299 source:c:\users\sandro\desktop\arthur\faculdade\berenicev3-main\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"headers.h"
+
+1668294296 source:c:\users\sandro\desktop\arthur\faculdade\berenicev3-main\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"headers.h"
+
